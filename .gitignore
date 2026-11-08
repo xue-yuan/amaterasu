@@ -1,0 +1,17 @@
+todo.md
+
+.DS_Store
+
+xcuserdata/
+
+DerivedData/
+build/
+*.xcresult
+*.xcarchive
+*.dSYM
+*.dSYM.zip
+*.hmap
+*.moved-aside
+
+.build/
+.swiftpm/

@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:amaterasu}/Packages/AmaterasuCore",
+            "name": "Debug serato-probe (Packages/AmaterasuCore)",
+            "target": "serato-probe",
+            "configuration": "debug",
+            "preLaunchTask": "swift: Build Debug serato-probe (Packages/AmaterasuCore)"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:amaterasu}/Packages/AmaterasuCore",
+            "name": "Release serato-probe (Packages/AmaterasuCore)",
+            "target": "serato-probe",
+            "configuration": "release",
+            "preLaunchTask": "swift: Build Release serato-probe (Packages/AmaterasuCore)"
+        }
+    ]
+}

@@ -1,0 +1,1276 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    " " : {
+      "shouldTranslate" : false
+    },
+    "#" : {
+      "shouldTranslate" : false
+    },
+    "%@ (live)" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@（進行中）"
+          }
+        }
+      }
+    },
+    "%@ is unavailable; another app may be using it" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ 無法使用，可能已被其他應用程式佔用"
+          }
+        }
+      }
+    },
+    "%@ · %@ · %@" : {
+      "shouldTranslate" : false
+    },
+    "%@ · Track %lld" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ · 第 %2$lld 首"
+          }
+        }
+      }
+    },
+    "%lld" : {
+      "shouldTranslate" : false
+    },
+    "%lld decks" : {
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld deck"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld decks"
+                }
+              }
+            }
+          }
+        },
+        "zh-Hant" : {
+          "variations" : {
+            "plural" : {
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld 個 Deck"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "%lld h %@ min" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$lld 小時 %2$@ 分"
+          }
+        }
+      }
+    },
+    "%lld min" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld 分"
+          }
+        }
+      }
+    },
+    "%lld pt" : {
+      "shouldTranslate" : false
+    },
+    "%lld tracks" : {
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld track"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld tracks"
+                }
+              }
+            }
+          }
+        },
+        "zh-Hant" : {
+          "variations" : {
+            "plural" : {
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld 首"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "(Unknown track)" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "（未知曲目）"
+          }
+        }
+      }
+    },
+    "Adjacent" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "相鄰調"
+          }
+        }
+      }
+    },
+    "Allow Amaterasu under Login Items in System Settings." : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "請在「系統設定」的「登入項目」中允許 Amaterasu。"
+          }
+        }
+      }
+    },
+    "Already played today at %@" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已於今天 %@ 播放過"
+          }
+        }
+      }
+    },
+    "Amaterasu" : {
+      "shouldTranslate" : false
+    },
+    "Amaterasu Settings" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Amaterasu 設定"
+          }
+        }
+      }
+    },
+    "Amaterasu needs Serato DJ Pro 4. Once Serato is installed and has been opened once, this updates automatically." : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Amaterasu 需搭配 Serato DJ Pro 4 使用。安裝並首次開啟 Serato 後，此處狀態將自動更新。"
+          }
+        }
+      }
+    },
+    "Amaterasu only reads Serato's database. It never changes it and never uploads anything." : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Amaterasu 僅以唯讀方式存取 Serato 資料庫，不會修改其內容，亦不會上傳任何資料。"
+          }
+        }
+      }
+    },
+    "Anything past the yellow threshold is grey. Half / double time is taken into account (e.g. 70 ↔ 140)." : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "超出黃色門檻者以灰色顯示。計算時會納入半速 / 倍速（例如 70 ↔ 140）。"
+          }
+        }
+      }
+    },
+    "Avg %lld BPM" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "平均 %lld BPM"
+          }
+        }
+      }
+    },
+    "Avg per track" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "平均每首時長"
+          }
+        }
+      }
+    },
+    "BPM" : {
+      "shouldTranslate" : false
+    },
+    "BPM (half / double time folded to this set)" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "BPM（已依本場換算半速 / 倍速）"
+          }
+        }
+      }
+    },
+    "BPM compatibility" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "BPM 相容性"
+          }
+        }
+      }
+    },
+    "BPM —" : {
+      "shouldTranslate" : false
+    },
+    "Biggest jump" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "最大 BPM 落差"
+          }
+        }
+      }
+    },
+    "Built-in display (default)" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "內建顯示器（預設）"
+          }
+        }
+      }
+    },
+    "Camelot (8A)" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Camelot（8A）"
+          }
+        }
+      }
+    },
+    "Can't Read Play History" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "無法讀取播放紀錄"
+          }
+        }
+      }
+    },
+    "Can't read Serato's database (%@). If Serato was just opened or updated, it may still be preparing its library: wait a moment, then click “Check Again”. If it still can't be read, check the file permissions, or add Amaterasu under System Settings › Privacy & Security › Full Disk Access." : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "無法讀取 Serato 資料庫（%@）。若 Serato 剛開啟或剛完成更新，可能仍在準備曲庫，請稍候再按「重新檢查」。若仍無法讀取，請確認檔案權限，或至「系統設定 › 隱私權與安全性 › 完整磁碟取用權限」加入 Amaterasu。"
+          }
+        }
+      }
+    },
+    "Can't read Serato's play history: %@" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "無法讀取 Serato 播放紀錄：%@"
+          }
+        }
+      }
+    },
+    "Can't read database" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "無法讀取資料庫"
+          }
+        }
+      }
+    },
+    "Can't read the Serato database" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "無法讀取 Serato 資料庫"
+          }
+        }
+      }
+    },
+    "Can't read the Serato library right now" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "目前無法讀取 Serato 曲庫"
+          }
+        }
+      }
+    },
+    "Can't read this session: %@" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "無法讀取此場次的紀錄：%@"
+          }
+        }
+      }
+    },
+    "Capsule width on displays without a notch" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "無瀏海顯示器的面板寬度"
+          }
+        }
+      }
+    },
+    "Check Again" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重新檢查"
+          }
+        }
+      }
+    },
+    "Copied %@" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已複製 %@"
+          }
+        }
+      }
+    },
+    "Copy Tracklist" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "複製曲目清單"
+          }
+        }
+      }
+    },
+    "Copy Tracklist with Times" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "複製曲目清單（含時間）"
+          }
+        }
+      }
+    },
+    "Couldn't change the login item: %@" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "無法變更登入項目：%@"
+          }
+        }
+      }
+    },
+    "D%lld" : {
+      "shouldTranslate" : false
+    },
+    "DECK %lld" : {
+      "shouldTranslate" : false
+    },
+    "DEMO" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "示範模式"
+          }
+        }
+      }
+    },
+    "Database" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "資料庫"
+          }
+        }
+      }
+    },
+    "Default" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "預設"
+          }
+        }
+      }
+    },
+    "Demo Mode (Fake Data)" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "示範模式（模擬資料）"
+          }
+        }
+      }
+    },
+    "Diagonal" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "對角調"
+          }
+        }
+      }
+    },
+    "Display" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "顯示"
+          }
+        }
+      }
+    },
+    "Duration" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "時長"
+          }
+        }
+      }
+    },
+    "Energy boost" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "能量提升"
+          }
+        }
+      }
+    },
+    "Excludes < 30 s" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "不計入未滿 30 秒的播放"
+          }
+        }
+      }
+    },
+    "Expand / Collapse Panel (%@)" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "展開 / 收合面板（%@）"
+          }
+        }
+      }
+    },
+    "Expand / collapse panel" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "展開 / 收合面板"
+          }
+        }
+      }
+    },
+    "Expand for 4 seconds on track change" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "切換曲目時自動展開 4 秒"
+          }
+        }
+      }
+    },
+    "General" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "一般"
+          }
+        }
+      }
+    },
+    "Green: mix as is" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "綠色：可直接混音"
+          }
+        }
+      }
+    },
+    "Harmonic" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "和聲"
+          }
+        }
+      }
+    },
+    "Harmonic mixes" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "和聲混音"
+          }
+        }
+      }
+    },
+    "Include ⌘, ⌃ or ⌥" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "須包含 ⌘、⌃ 或 ⌥"
+          }
+        }
+      }
+    },
+    "Into %@" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "切換至 %@"
+          }
+        }
+      }
+    },
+    "Jumps %lld · Boosts %lld" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "跨調 %1$lld · 能量提升 %2$lld"
+          }
+        }
+      }
+    },
+    "Key" : {
+      "shouldTranslate" : false
+    },
+    "Key jump" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "跨調"
+          }
+        }
+      }
+    },
+    "Key notation" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "調性標記方式"
+          }
+        }
+      }
+    },
+    "Key —" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "調性 —"
+          }
+        }
+      }
+    },
+    "Keyboard shortcut" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "鍵盤快速鍵"
+          }
+        }
+      }
+    },
+    "Language" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "語言"
+          }
+        }
+      }
+    },
+    "Launch at login" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "登入時自動啟動"
+          }
+        }
+      }
+    },
+    "Library database not found" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "找不到曲庫資料庫"
+          }
+        }
+      }
+    },
+    "Loaded, not played yet" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已載入，尚未播放"
+          }
+        }
+      }
+    },
+    "MAIN" : {
+      "shouldTranslate" : false
+    },
+    "MAIN · MANUAL" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MAIN · 手動"
+          }
+        }
+      }
+    },
+    "Main deck has no key data" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "主 Deck 無調性資料"
+          }
+        }
+      }
+    },
+    "Mix into" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "建議銜接"
+          }
+        }
+      }
+    },
+    "No Play History Yet" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "尚無播放紀錄"
+          }
+        }
+      }
+    },
+    "No library tracks match both key and BPM" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "曲庫中沒有調性與 BPM 皆相符的曲目"
+          }
+        }
+      }
+    },
+    "Not installed" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "未安裝"
+          }
+        }
+      }
+    },
+    "Not running" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "未執行"
+          }
+        }
+      }
+    },
+    "Notch" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "瀏海"
+          }
+        }
+      }
+    },
+    "Number of Decks" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deck 數量"
+          }
+        }
+      }
+    },
+    "On external displays and Macs without a notch, the panel appears as a capsule at the top centre of the screen." : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在外接顯示器或沒有瀏海的 Mac 上，面板會以膠囊形狀顯示於螢幕頂端中央。"
+          }
+        }
+      }
+    },
+    "Once Serato DJ Pro is open, the panel shows the loaded tracks automatically. If Serato is already open but this still says Not running (for example, right after an update or a slow launch), click “Check Again”." : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "開啟 Serato DJ Pro 後，面板將自動顯示已載入的曲目。若 Serato 已開啟但仍顯示「未執行」（例如剛完成更新或啟動較慢），請按「重新檢查」。"
+          }
+        }
+      }
+    },
+    "Once you've played tracks in Serato, each session's tempo curve and tracklist show up here." : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在 Serato 播放曲目後，各場次的速度曲線與曲目清單將顯示於此。"
+          }
+        }
+      }
+    },
+    "Open Key (1m)" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open Key（1m）"
+          }
+        }
+      }
+    },
+    "Open Serato DJ Pro 4 once so it can create its library. Amaterasu doesn't support Serato 3 or earlier, or Serato DJ Lite." : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "請先開啟 Serato DJ Pro 4 以建立曲庫。Amaterasu 不支援 Serato 3 及更早版本，亦不支援 Serato DJ Lite。"
+          }
+        }
+      }
+    },
+    "Open System Settings" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "開啟「系統設定」"
+          }
+        }
+      }
+    },
+    "Opener" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "開場"
+          }
+        }
+      }
+    },
+    "Playing" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已開始播放"
+          }
+        }
+      }
+    },
+    "Press a new shortcut…" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "請按下新的快速鍵…"
+          }
+        }
+      }
+    },
+    "Quit Amaterasu" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "結束 Amaterasu"
+          }
+        }
+      }
+    },
+    "Reference" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "基準"
+          }
+        }
+      }
+    },
+    "Relative" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "關係調"
+          }
+        }
+      }
+    },
+    "Restore All Defaults" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "全部還原為預設值"
+          }
+        }
+      }
+    },
+    "Running" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "執行中"
+          }
+        }
+      }
+    },
+    "Same key" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "同調"
+          }
+        }
+      }
+    },
+    "Semitone up" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "升半音"
+          }
+        }
+      }
+    },
+    "Serato" : {
+      "shouldTranslate" : false
+    },
+    "Serato DJ Pro not found" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "找不到 Serato DJ Pro"
+          }
+        }
+      }
+    },
+    "Serato is running and its database is readable." : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Serato 正在執行，資料庫可正常讀取。"
+          }
+        }
+      }
+    },
+    "Serato library not found" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "找不到 Serato 曲庫"
+          }
+        }
+      }
+    },
+    "Serato's database structure isn't what Amaterasu expects; Serato may have been updated. Missing: %@. Please update Amaterasu." : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Serato 資料庫結構與 Amaterasu 預期不符，可能是 Serato 已更新。缺少項目：%@。請更新 Amaterasu。"
+          }
+        }
+      }
+    },
+    "Serato: %@" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Serato：%@"
+          }
+        }
+      }
+    },
+    "Session" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "場次"
+          }
+        }
+      }
+    },
+    "Session Analysis" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "場次分析"
+          }
+        }
+      }
+    },
+    "Session Analysis & Tracklists (%@ tonight)…" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "場次分析與曲目清單（今晚 %@）…"
+          }
+        }
+      }
+    },
+    "Session Analysis & Tracklists…" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "場次分析與曲目清單…"
+          }
+        }
+      }
+    },
+    "Settings…" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "設定…"
+          }
+        }
+      }
+    },
+    "Show advanced recommendations (semitone up, diagonal)" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "顯示進階推薦（升半音、對角調）"
+          }
+        }
+      }
+    },
+    "Show on" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "顯示於"
+          }
+        }
+      }
+    },
+    "Show “Suggested next” (library tracks that match key and BPM)" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "顯示「建議下一首」（從曲庫挑選調性與 BPM 皆相符的曲目）"
+          }
+        }
+      }
+    },
+    "Showing fake demo data. Turn off Demo Mode from the menu bar icon's menu." : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "目前顯示的是示範資料。可從選單列圖示的選單關閉示範模式。"
+          }
+        }
+      }
+    },
+    "Simulate Track Change" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "模擬切換曲目"
+          }
+        }
+      }
+    },
+    "Status" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "狀態"
+          }
+        }
+      }
+    },
+    "Suggested next" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "建議下一首"
+          }
+        }
+      }
+    },
+    "Tempo range" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "BPM 範圍"
+          }
+        }
+      }
+    },
+    "This version of Serato isn't supported" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "不支援此版本的 Serato"
+          }
+        }
+      }
+    },
+    "Time" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "時間"
+          }
+        }
+      }
+    },
+    "Track" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "曲目"
+          }
+        }
+      }
+    },
+    "Tracks" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "曲數"
+          }
+        }
+      }
+    },
+    "Traditional (Am)" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "傳統音名（Am）"
+          }
+        }
+      }
+    },
+    "Transition" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "轉場"
+          }
+        }
+      }
+    },
+    "Unknown key" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "調性未知"
+          }
+        }
+      }
+    },
+    "Unsupported version" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "不支援的版本"
+          }
+        }
+      }
+    },
+    "Waiting for Serato…" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "正在等待 Serato…"
+          }
+        }
+      }
+    },
+    "Waiting for a track to load…" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "正在等待載入曲目…"
+          }
+        }
+      }
+    },
+    "Yellow: needs a big pitch change" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "黃色：需大幅調整速度"
+          }
+        }
+      }
+    },
+    "track %lld" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "第 %lld 首"
+          }
+        }
+      }
+    },
+    "↺ %@" : {
+      "shouldTranslate" : false
+    },
+    "✗ Key clash" : {
+      "localizations" : {
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "✗ 調性衝突"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

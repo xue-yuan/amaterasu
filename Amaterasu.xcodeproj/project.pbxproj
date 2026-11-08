@@ -1,0 +1,295 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		4E44000000000000000000B4 /* Domain in Frameworks */ = {isa = PBXBuildFile; productRef = 4E44000000000000000000B1 /* Domain */; };
+		4E44000000000000000000B5 /* Mock in Frameworks */ = {isa = PBXBuildFile; productRef = 4E44000000000000000000B2 /* Mock */; };
+		4E44000000000000000000B6 /* NotchLayout in Frameworks */ = {isa = PBXBuildFile; productRef = 4E44000000000000000000B3 /* NotchLayout */; };
+		4E44000000000000000000B7 /* SeratoDatabase in Frameworks */ = {isa = PBXBuildFile; productRef = 4E44000000000000000000B8 /* SeratoDatabase */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		4E44000000000000000000A4 /* Amaterasu.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Amaterasu.app; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		4E44000000000000000000A5 /* Amaterasu */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Amaterasu;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		4E44000000000000000000A8 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4E44000000000000000000B4 /* Domain in Frameworks */,
+				4E44000000000000000000B5 /* Mock in Frameworks */,
+				4E44000000000000000000B6 /* NotchLayout in Frameworks */,
+				4E44000000000000000000B7 /* SeratoDatabase in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		4E44000000000000000000A2 = {
+			isa = PBXGroup;
+			children = (
+				4E44000000000000000000A5 /* Amaterasu */,
+				4E44000000000000000000A3 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		4E44000000000000000000A3 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				4E44000000000000000000A4 /* Amaterasu.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		4E44000000000000000000A6 /* Amaterasu */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4E44000000000000000000AD /* Build configuration list for PBXNativeTarget "Amaterasu" */;
+			buildPhases = (
+				4E44000000000000000000A7 /* Sources */,
+				4E44000000000000000000A8 /* Frameworks */,
+				4E44000000000000000000A9 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				4E44000000000000000000A5 /* Amaterasu */,
+			);
+			name = Amaterasu;
+			packageProductDependencies = (
+				4E44000000000000000000B1 /* Domain */,
+				4E44000000000000000000B2 /* Mock */,
+				4E44000000000000000000B3 /* NotchLayout */,
+				4E44000000000000000000B8 /* SeratoDatabase */,
+			);
+			productName = Amaterasu;
+			productReference = 4E44000000000000000000A4 /* Amaterasu.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		4E44000000000000000000A1 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 2710;
+				LastUpgradeCheck = 2710;
+				TargetAttributes = {
+					4E44000000000000000000A6 = {
+						CreatedOnToolsVersion = 27.1;
+					};
+				};
+			};
+			buildConfigurationList = 4E44000000000000000000AA /* Build configuration list for PBXProject "Amaterasu" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+				"zh-Hant",
+			);
+			mainGroup = 4E44000000000000000000A2;
+			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				4E44000000000000000000B0 /* XCLocalSwiftPackageReference "Packages/AmaterasuCore" */,
+			);
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 4E44000000000000000000A3 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				4E44000000000000000000A6 /* Amaterasu */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		4E44000000000000000000A9 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		4E44000000000000000000A7 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		4E44000000000000000000AB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 14.0;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		4E44000000000000000000AC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 14.0;
+				SDKROOT = macosx;
+				SWIFT_COMPILATION_MODE = wholemodule;
+			};
+			name = Release;
+		};
+		4E44000000000000000000AE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "-";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				ENABLE_APP_SANDBOX = NO;
+				ENABLE_HARDENED_RUNTIME = YES;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = Amaterasu;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.music";
+				INFOPLIST_KEY_LSUIElement = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MARKETING_VERSION = 0.1;
+				PRODUCT_BUNDLE_IDENTIFIER = local.amaterasu.Amaterasu;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 6.0;
+			};
+			name = Debug;
+		};
+		4E44000000000000000000AF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "-";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				ENABLE_APP_SANDBOX = NO;
+				ENABLE_HARDENED_RUNTIME = YES;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = Amaterasu;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.music";
+				INFOPLIST_KEY_LSUIElement = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MARKETING_VERSION = 0.1;
+				PRODUCT_BUNDLE_IDENTIFIER = local.amaterasu.Amaterasu;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 6.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		4E44000000000000000000AA /* Build configuration list for PBXProject "Amaterasu" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4E44000000000000000000AB /* Debug */,
+				4E44000000000000000000AC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4E44000000000000000000AD /* Build configuration list for PBXNativeTarget "Amaterasu" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4E44000000000000000000AE /* Debug */,
+				4E44000000000000000000AF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCLocalSwiftPackageReference section */
+		4E44000000000000000000B0 /* XCLocalSwiftPackageReference "Packages/AmaterasuCore" */ = {
+			isa = XCLocalSwiftPackageReference;
+			relativePath = Packages/AmaterasuCore;
+		};
+/* End XCLocalSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		4E44000000000000000000B1 /* Domain */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = Domain;
+		};
+		4E44000000000000000000B2 /* Mock */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = Mock;
+		};
+		4E44000000000000000000B3 /* NotchLayout */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = NotchLayout;
+		};
+		4E44000000000000000000B8 /* SeratoDatabase */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = SeratoDatabase;
+		};
+/* End XCSwiftPackageProductDependency section */
+	};
+	rootObject = 4E44000000000000000000A1 /* Project object */;
+}
